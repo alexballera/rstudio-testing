@@ -1,1 +1,1 @@
-Proyecto para ir testeando con RStudio.
+Proyecto del curso de Coursera para ir testeando con RStudio.
